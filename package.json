@@ -1,0 +1,40 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "STRIGA V12",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.2",
+    "jimp": "^0.16.1",
+    "fs": "^0.0.2",
+    "snekfetch": "^4.0.4",
+    "path": "^0.12.7",
+    "node-superfetch": "^0.1.10",
+    "crypto": "^1.0.1",
+    "ms": "^2.1.2",
+    "pretty-ms": "^7.0.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

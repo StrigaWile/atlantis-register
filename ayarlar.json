@@ -1,0 +1,38 @@
+{
+  "prefix" : ".",
+  
+  "sahip" : "",
+  
+  "botVoiceChannelID" : "",
+  
+  "Guild" : "",
+   
+  
+  "tag" : "",
+  "nick" : " İsim | Yaş" ,
+  
+  
+  "booster" : "",
+   
+  "erkek1": "",
+  "erkek2" : "",
+  "kadın1" : "",
+  "kadın2" : "",
+  "unregister" : "",
+  "jailRol" : "",
+  "şüpheli" : "",
+  "tagRol" : "",
+  
+  "KayıtYetkilisi" : "",
+  "üstYetkiliRolü" : "",
+
+  
+  
+  "genelChat" : "",  
+  "kayitLog" : "",
+  "KayıtChat" : "",
+  "tagLog" : ""
+ 
+  
+  
+}
